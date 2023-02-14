@@ -8,7 +8,7 @@ namespace Assignment2
 {
     class AddProduct
     {
-        // Adding 10 product item which is load before runnig.
+        // Adding 10 product item which is load before running.
         public static void addDefaultProduct(List<Product> productList)
         {
             productList.Add(new Product("lettuce", "10.5 RS", 50, "Leafy green"));
