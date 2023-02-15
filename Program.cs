@@ -14,13 +14,18 @@ namespace Assignment2
             PrintProduct.PrintAllProduct(productList);
             Console.WriteLine("Total number of products in the list: " + productList.Count);
 
+            Console.WriteLine("**************************************************************");
+
             Console.WriteLine("Printing all Leafy Green type product........");
             PrintProduct.PrintByType("Leafy green", productList);
+
+            Console.WriteLine("**************************************************************");
 
             RemoveProduct.removeGarlic(productList);
             PrintProduct.PrintAllProduct(productList);
             Console.WriteLine("Total number of products in the list: " + productList.Count);
 
+            Console.WriteLine("**************************************************************");
             PriceCalculate.calculatePrice(productList, "lettuce", 1, "zucchini", 2, "broccoli", 1);
         }
 

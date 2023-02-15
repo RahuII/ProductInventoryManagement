@@ -19,7 +19,7 @@ namespace Assignment2
         {
             foreach (Product product in productList)
             {
-                if (product.type.ToLower().Equals(productType))
+                if (product.type.Equals(productType))
                 {
                     Console.WriteLine(product.name + ", " + product.price + ", " + product.quantity + ", " + product.type);
                 }
