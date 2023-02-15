@@ -29,6 +29,7 @@ OUTPUT:
 - If the user adds 50 cabbages to the inventory, print the final quantity of cabbage in the inventory.
 - If a user purchases 1kg lettuce, 2 kg zucchini, 1 kg broccoli the what is the round figure that the user needs to pay?
 
-![image](https://user-images.githubusercontent.com/68543024/218730808-1689f037-5a8e-4a87-82ed-1fa795aeaeb2.png)
+![image](https://user-images.githubusercontent.com/68543024/218941399-aa642ead-be3d-4576-b30c-d1b9adf2f605.png)
 
-![image](https://user-images.githubusercontent.com/68543024/218730737-c7f58ff1-d6ec-48f1-824f-97db2835c453.png)
+![image](https://user-images.githubusercontent.com/68543024/218941779-d56a0a78-4d30-4124-89e2-7e1d8a42429f.png)
+
